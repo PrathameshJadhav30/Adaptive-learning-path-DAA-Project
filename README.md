@@ -13,8 +13,8 @@ This project efficiently adapts to the student's performance to recommend an opt
 - Dynamic Programming to analyze knowledge progression
 
 # Dependencies
--cC++11 or above: Ensure compatibility with modern C++ features.
--cStandard Template Library (STL): Used for graphs, priority queues, and data handling.
+- C++11 or above: Ensure compatibility with modern C++ features.
+- Standard Template Library (STL): Used for graphs, priority queues, and data handling.
 
 # Algorithm Details
 - Graph-Based Algorithms:
